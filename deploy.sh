@@ -24,6 +24,6 @@ git commit -m 'deploy'
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git main
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:echudev/3d-card.git main:gh-pages
+# git push -f git@github.com:echudev/parallax-card.git main:gh-pages
 
 cd -
